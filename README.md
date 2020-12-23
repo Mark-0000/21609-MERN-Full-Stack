@@ -1,3 +1,3 @@
 # 21609-MERN-Full-Stack
 
-CA2 Continuous Assessment for Back-End Web Development
+Continuous Assessment 2 for Back-End Web Development
