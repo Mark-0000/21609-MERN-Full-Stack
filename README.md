@@ -3,7 +3,7 @@
 Continuous Assessment 2 for Back-End Web Development
 
 ## How to run
-npm init - this will install all the dependencies required /
+npm init - this will install all the dependencies required \
 npm run dev - the application will run both the client and server using concurrently
 
 ### server
